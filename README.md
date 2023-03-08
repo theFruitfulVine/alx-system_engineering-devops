@@ -1,1 +1,1 @@
-This repo contains basic Linux Shell navigation commands
+This repo contains basic Linux Shell navigation commands.
