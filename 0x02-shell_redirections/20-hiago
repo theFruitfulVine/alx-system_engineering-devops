@@ -1,2 +1,2 @@
 #!/bin/bash
-/dev/sdin | tr -d 'cC'
+tr -d 'cC'
